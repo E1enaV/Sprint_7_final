@@ -1,1 +1,0 @@
-{"uuid":"2d7d3da9-7ba0-4ebf-b7e4-527cd76d3c56","name":"Check status code and body of /api/v1/courier/login when data is valid","children":["f36b1358-1c80-4f5c-92ec-948a2c4b5574"],"befores":[],"afters":[],"start":1771003514579,"stop":1771003515473}

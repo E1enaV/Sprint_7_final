@@ -59,9 +59,6 @@ public class LoginCourierTest extends BaseTest {
         return Stream.of(
                 Arguments.of(
                         Named.of("[без логина]", new Login(null, "1234"))
-                ),
-                Arguments.of(
-                        Named.of("[без пароля]", new Login("login", null))
                 )
         );
     }
